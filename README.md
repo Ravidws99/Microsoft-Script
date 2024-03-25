@@ -1,0 +1,2 @@
+# Microsoft-Script
+Remove-DuplicateAuthorizedTypeEntryFromWeb.Config
